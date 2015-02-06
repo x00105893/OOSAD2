@@ -14,7 +14,7 @@ public class Lab2 {
 
 	public Lab2() {
 		// TODO - implement Lab2.Lab2
-		throw new UnsupportedOperationException();
+		// remoover unsupported confirmation
 	}
 
 	public void print()
