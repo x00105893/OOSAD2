@@ -1,0 +1,24 @@
+ 150  git pull
+  151  ls
+  152  git add -A
+  153  git commit -a
+  154  push origin master
+  155  git push origin master
+  156  javac
+  157  sudo -E apt-get install openjdk-7-jdk
+  158  sudo -E apt-get update
+  159  sudo -E apt-get install openjdk-7-jdk
+  160  javac
+  161  mkdir week3
+  162  git add -A
+  163  git commit -a
+  164  git push origin master
+  165  cd week 3
+  166  cd Week3
+  167  cd week3
+  168  ls
+  169  javac labweek3/Shopping/Driver.java 
+  170  javac labweek3/Shopping/Driver.java 
+  171  javac labweek3.Shopping.Driver 
+  172  java labweek3.Shopping.Driver 
+
